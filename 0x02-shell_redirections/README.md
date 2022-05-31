@@ -5,3 +5,4 @@ Display Content
 Last 10 lines
 First Lines
 Third line
+7-file
