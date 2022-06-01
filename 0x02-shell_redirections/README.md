@@ -18,3 +18,4 @@ No more js
 17-hidethisword
 18-letteronly
 18-letteronly
+19-AZ
