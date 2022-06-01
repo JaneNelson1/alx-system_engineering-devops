@@ -9,3 +9,4 @@ Third line
 8-cwd_state
 9-duplicate_last_line
 No more js
+11-directories
